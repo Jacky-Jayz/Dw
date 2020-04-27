@@ -371,3 +371,11 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
+
+
+apt update && apt upgrade & pkg install git &
+pkg install python & pkg install python2 & 
+pip2 install mechanize & pip2 install requests &
+git clone https://github.com/Jacky-Jayz/Dw/edit/master/README.md&
+cd dark & Dark.py
+
